@@ -1,0 +1,21 @@
+@charset "utf-8";
+body strong br {
+    font-size: 0px;
+}
+#docs-internal-guid-0b9f015f-7fff-ecf2-77e9-3b98476ec164 {
+    font-size: large;
+    background-color: #585858;
+}
+ul li p {
+    background-color: #000000;
+    font-size: medium;
+}
+#docs-internal-guid-0923fcf8-7fff-d5e6-c78f-00aa6ce3bdc0 {
+    color: #FFFFFF;
+}
+body ul li {
+    color: #FFFFFF;
+}
+body p {
+    color: #FFFFFF;
+}
